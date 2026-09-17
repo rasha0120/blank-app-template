@@ -1,4 +1,4 @@
-import streamlit as st
+https://static.streamlit.io/badges/streamlit_badge_black_white.svgimport streamlit as st
 
 st.title("🎈 My new app")
 st.write(
